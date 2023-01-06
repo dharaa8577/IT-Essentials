@@ -1,6 +1,10 @@
-Finished Linux commands
-Finished Version control
-Finished SDLC
-Finished Testing
-Finished Database
+
 planning to work on          next
+
+
+Software's for Development 
+ Linux Commands 
+ SDLC 
+ Version Control 
+ Testing 
+ Database 
